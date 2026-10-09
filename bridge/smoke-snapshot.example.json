@@ -1,0 +1,14 @@
+{
+  "command": "snapshot",
+  "guard": {
+    "projectPath": "/ABSOLUTE/PATH/TO/YOUR/PROJECT.prproj",
+    "sequenceId": "REPLACE_WITH_CURRENT_VERIFIED_ACTIVE_SEQUENCE_ID",
+    "timebase": "REPLACE_WITH_YOUR_SEQUENCE_TIMEBASE",
+    "videoTracks": [
+      0
+    ],
+    "audioTracks": [
+      0
+    ]
+  }
+}

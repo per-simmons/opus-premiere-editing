@@ -1,0 +1,9 @@
+{
+  "name": "pat-premiere-bridge-v2",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "test": "node --test test/*.test.cjs"
+  },
+  "description": "Native background CEP bridge with guarded MCP snapshot/save; transcript and cut support under development"
+}
